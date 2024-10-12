@@ -1,1 +1,1 @@
-Core swift based proejcts and playgrounds
+Core swift based projects and playgrounds
